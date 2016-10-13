@@ -193,7 +193,7 @@ public class MainActivity extends Activity implements
         ParseInstallation.getCurrentInstallation().saveInBackground();
         ParseAnalytics.trackAppOpened(getIntent());
 
-        Crittercism.initialize(getApplicationContext(), "82a74e60672a4da7bc32c77b5653e64100555300");
+        Crittercism.initialize(getApplicationContext(), "b77b31a420b041e69e8bf800a852089000555300");
 
         setupTabs();
         resetTabs();
