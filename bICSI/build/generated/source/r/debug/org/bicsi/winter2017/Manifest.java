@@ -10,5 +10,6 @@ package org.bicsi.winter2017;
 public final class Manifest {
     public static final class permission {
         public static final String C2D_MESSAGE="org.bicsi.winter2017.permission.C2D_MESSAGE";
+        public static final String RECEIVE_ADM_MESSAGE="org.bicsi.winter2017.permission.RECEIVE_ADM_MESSAGE";
     }
 }

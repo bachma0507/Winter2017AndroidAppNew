@@ -4,12 +4,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/contactus_icon.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/committee_icon.png",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/committee_icon.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/floorplan_icon.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/floorplan_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/committee_icon.png",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/committee_icon.png"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/training_icon.png",
@@ -20,12 +20,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/exh_hall_sched.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/hotel_icon.png",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/hotel_icon.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/cec_icon.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/cec_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/hotel_icon.png",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-ldpi/hotel_icon.png"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/surveys.png",

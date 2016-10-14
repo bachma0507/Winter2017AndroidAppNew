@@ -52,12 +52,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_list_section_header.xml"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/splash_screen_layout.xml",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/splash_screen_layout.xml"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/loginsuccess.xml",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/loginsuccess.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/splash_screen_layout.xml",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/splash_screen_layout.xml"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/confschedule_detail_info_list.xml",
@@ -84,12 +84,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/alerts_layout.xml"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/actvity_new_meal.xml",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/actvity_new_meal.xml"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/actvity_new_meal.xml",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/actvity_new_meal.xml"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_home.xml",
@@ -108,12 +108,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/fragment_ehschedule.xml"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/committee_info_list.xml",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/committee_info_list.xml"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/committee_info_list.xml",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/layout/committee_info_list.xml"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_confschedule_single.xml",
