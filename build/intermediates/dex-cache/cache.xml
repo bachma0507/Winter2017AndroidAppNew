@@ -40,14 +40,14 @@
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="1ad1ada3ef4403c257cd8009f460b293c124451c">
+        sha1="b1e7ae6a41c839d1fcbb7d09d38c0cf196163e8b">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3283e8ee43d504a21cd8e1a558be9ed02c2dc66/classes.dex" />
     </item>
     <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="4911b5574013b259c5dfb40da162d833984d0b79">
+        sha1="0c51d6194aa405c40765f7e60e77b54e780c62d9">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73ce1e12a8593f4e831680ad84b46110932afbea/classes.dex" />
     </item>
     <item
@@ -96,7 +96,7 @@
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="de35fa5363b4170078817655486b082d6e912a5a">
+        sha1="be84ba1596f5278cb336f7c1c06791178a771fc3">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/8/bolts_1d4fb2bf4add77822fc93a3051b430eb31b6559c/classes.dex" />
     </item>
     <item

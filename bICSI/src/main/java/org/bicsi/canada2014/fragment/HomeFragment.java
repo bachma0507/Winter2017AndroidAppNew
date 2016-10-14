@@ -130,8 +130,8 @@ public class HomeFragment extends Fragment {
 		});
 		ivCommeet.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
-				mCallback.navigateToTabFragment(newFragment4, null);
-				//openInternalWebview("http://www.bicsi.org/m/content.aspx?id=7003");
+				//mCallback.navigateToTabFragment(newFragment4, null);
+				openInternalWebview("https://www.speedyreference.com/nppredirect.html");
 			}
 		});
 		ivTrainexam.setOnClickListener(new View.OnClickListener() {

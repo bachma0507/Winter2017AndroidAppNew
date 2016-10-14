@@ -184,12 +184,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/exhibitors_icon.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_logo.png",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-hdpi-v4/com_facebook_logo.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_dot.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable-hdpi/notification_dot.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_logo.png",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-hdpi-v4/com_facebook_logo.png"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",

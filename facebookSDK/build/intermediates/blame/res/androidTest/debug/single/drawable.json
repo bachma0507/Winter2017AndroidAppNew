@@ -52,12 +52,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_button_check_off.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_profile_default_icon.png",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_profile_default_icon.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_pressed.9.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_profile_default_icon.png",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_profile_default_icon.png"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_selector_background_transition.xml",
@@ -92,12 +92,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_item_background.xml"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_loginbutton_silver.xml",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_loginbutton_silver.xml"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_grey_focused.9.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_loginbutton_silver.xml",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable/com_facebook_loginbutton_silver.xml"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_blue_normal.9.png",
