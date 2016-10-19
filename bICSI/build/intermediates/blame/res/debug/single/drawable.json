@@ -224,12 +224,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable/email.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/exhibitors_icon.png",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable/exhibitors_icon.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/presentations.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable/presentations.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/exhibitors_icon.png",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable/exhibitors_icon.png"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/com_facebook_loginbutton_silver.xml",
@@ -240,12 +240,12 @@
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable/com_facebook_button_check_on.png"
     },
     {
-        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_selector.xml",
-        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector.xml"
-    },
-    {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/contactus_icon.png",
         "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/src/main/res/drawable/contactus_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_selector.xml",
+        "source": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector.xml"
     },
     {
         "merged": "/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/res/merged/debug/drawable/com_facebook_picker_item_background.xml",

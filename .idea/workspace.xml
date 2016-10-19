@@ -10,12 +10,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="065a1d06-6b59-4f25-ab89-df25dc12fc9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/crittercism_v5_6_4_sdkonly.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/crittercism_v4_3_0_sdkonly.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/classes/androidTest/debug/com/facebook/android/test/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
@@ -23,19 +46,94 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/FacebookPost/FacebookPostActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/FacebookPost/FacebookPostActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/AboutUsFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/AboutUsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment$10.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SocialMediaFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SocialMediaFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$string.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$style.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$styleable.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/winter2017/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/presentations.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-hdpi-v4/training_and_exams.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/presentations.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xhdpi-v4/training_and_exams.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/presentations.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/training_and_exams.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/presentations.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/training_and_exams.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/presentations.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xhdpi/training_and_exams.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/bicsi_splash.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/bicsi_splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/cec_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/cec_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/committee_meetings.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/committee_meetings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/conference_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/conference_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/contact_us.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/contact_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/email_your_comments.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/email_your_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/exhibit_hall_schedule.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/exhibit_hall_schedule.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/exhibitors.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/exhibitors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/ffloor_maps.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/ffloor_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/hotel_information.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/hotel_information.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/ic_launcher_web.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/ic_launcher_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/presentations.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/presentations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/session_surveys.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/session_surveys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/training_and_exams.png" afterPath="$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/training_and_exams.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/libs/bolts.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/libs/bolts.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" />
@@ -43,19 +141,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_0_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/bICSI.iml" afterPath="$PROJECT_DIR$/bICSI/bICSI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/org/bicsi/winter2017/R.java" afterPath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/org/bicsi/winter2017/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build.gradle" afterPath="$PROJECT_DIR$/bICSI/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/bICSI/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" afterPath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
     </list>
     <ignored path="BICSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,103 +176,20 @@
         <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/NotesActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding />
+              <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4117646">
-              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.777778">
-              <caret line="1913" column="43" selection-start-line="1913" selection-start-column="38" selection-end-line="1913" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#5238#5378#0" expanded="true" />
-                <element signature="e#5377#5378#0" expanded="true" />
-                <element signature="e#5483#5673#0" expanded="true" />
-                <element signature="e#5672#5673#0" expanded="true" />
-                <element signature="e#5746#6043#0" expanded="true" />
-                <element signature="e#6042#6043#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.708334">
-              <caret line="203" column="28" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.4965157">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/layout/home_layout.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="66.50944">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImportScheduleFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/ImportScheduleFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5782074">
-              <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -2221,7 +2233,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5800836143000" />
+        <entry key="$PROJECT_DIR$" value="5800951580000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2413,12 +2425,12 @@
                             <option value="$PROJECT_DIR$/facebookSDK/libs/bolts.jar" />
                             <option value="$MODULE_DIR$/libs/Parse-1.3.8.jar" />
                             <option value="$MODULE_DIR$/libs/PushIOManager.jar" />
-                            <option value="$MODULE_DIR$/libs/crittercism_v4_3_0_sdkonly.jar" />
                             <option value="$MODULE_DIR$/libs/httpclient-4.0.1.jar" />
                             <option value="$MODULE_DIR$/libs/libGoogleAnalyticsServices.jar" />
                             <option value="$MODULE_DIR$/libs/stackmob-android-sdk-1.3.5.jar" />
                             <option value="$MODULE_DIR$/libs/twitter4j-core-3.0.5.jar" />
                             <option value="$MODULE_DIR$/libs/Pushwoosh.jar" />
+                            <option value="$MODULE_DIR$/libs/crittercism_v5_6_4_sdkonly.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/bICSI" />
@@ -2628,18 +2640,18 @@
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/NewMealActivity.java" />
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/NotesActivity.java" />
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/ImportScheduleFragment.java" />
-        <option value="$PROJECT_DIR$/bICSI/build.gradle" />
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java" />
         <option value="$PROJECT_DIR$/bICSI/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" />
         <option value="$PROJECT_DIR$/bICSI/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/bICSI/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1007" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2666,6 +2678,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2682,213 +2707,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="bICSI" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="res">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="res">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="values">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="res">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="layout">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="org/bicsi/canada2014">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src/main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="org/bicsi/canada2014">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fragment">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="BICSI">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3193,21 +3011,25 @@
       <option name="project" value="LOCAL" />
       <updated>1476466027245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added New Product Pavilion link (nppredirect) on HomeFragment. Changed text in Strings for NPP but not icon as yet.">
+      <created>1476467849975</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476467849975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1007" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1011" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3216,7 +3038,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3225,7 +3047,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -3244,26 +3068,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated crittercism API key" />
     <MESSAGE value="Implemented pushwoosh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented pushwoosh" />
+    <MESSAGE value="added New Product Pavilion link (nppredirect) on HomeFragment. Changed text in Strings for NPP but not icon as yet." />
+    <option name="LAST_COMMIT_MESSAGE" value="added New Product Pavilion link (nppredirect) on HomeFragment. Changed text in Strings for NPP but not icon as yet." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/PlannerScheduleFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/plannerSingleFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3271,7 +3087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3279,7 +3094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3287,14 +3101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#2208#2209#0" expanded="false" />
-            <element signature="e#2269#2270#0" expanded="false" />
-            <element signature="e#2450#2451#0" expanded="false" />
-            <element signature="e#2515#2516#0" expanded="false" />
-            <element signature="e#2962#2963#0" expanded="false" />
-            <element signature="e#2983#2984#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3302,10 +3108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#6639#6640#0" expanded="false" />
-            <element signature="e#6667#6668#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3313,10 +3115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="e#1518#1519#0" expanded="false" />
-            <element signature="e#1536#1537#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3324,7 +3122,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3516,7 +3316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3524,7 +3323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3532,7 +3330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3540,7 +3337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3548,14 +3344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#2208#2209#0" expanded="false" />
-            <element signature="e#2269#2270#0" expanded="false" />
-            <element signature="e#2450#2451#0" expanded="false" />
-            <element signature="e#2515#2516#0" expanded="false" />
-            <element signature="e#2962#2963#0" expanded="false" />
-            <element signature="e#2983#2984#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3563,10 +3351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#6639#6640#0" expanded="false" />
-            <element signature="e#6667#6668#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3574,26 +3358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="e#1518#1519#0" expanded="false" />
-            <element signature="e#1536#1537#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/NotesActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bICSI/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3601,31 +3365,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.777778">
-          <caret line="1913" column="43" selection-start-line="1913" selection-start-column="38" selection-end-line="1913" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5238#5378#0" expanded="true" />
-            <element signature="e#5377#5378#0" expanded="true" />
-            <element signature="e#5483#5673#0" expanded="true" />
-            <element signature="e#5672#5673#0" expanded="true" />
-            <element signature="e#5746#6043#0" expanded="true" />
-            <element signature="e#6042#6043#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.708334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="203" column="28" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
           <folding />
         </state>
@@ -3639,40 +3385,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bICSI/build/generated/source/r/debug/org/bicsi/winter2017/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-34.372692">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4117646">
+        <state vertical-scroll-proportion="0.0">
           <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/layout/home_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="66.50944">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5782074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/drawable-hdpi/cec_information.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/src/main/res/drawable-xxhdpi/cec_information.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62283736">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/NotesActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4965157">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>

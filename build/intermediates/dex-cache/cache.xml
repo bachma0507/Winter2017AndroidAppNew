@@ -37,18 +37,25 @@
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_2b934f95a29f06cc7353f400c07964b2bd923e4a/classes.dex" />
     </item>
     <item
-        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/libs/crittercism_v5_6_4_sdkonly.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="b1e7ae6a41c839d1fcbb7d09d38c0cf196163e8b">
-        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3283e8ee43d504a21cd8e1a558be9ed02c2dc66/classes.dex" />
+        sha1="a2caa746ff4290e55c0c5d928f09a9fe1d710114">
+        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/crittercism_v5_6_4_sdkonly_549803ddbe8c7132c6c1e549e0d2ed114ed0c5a3/classes.dex" />
     </item>
     <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="0c51d6194aa405c40765f7e60e77b54e780c62d9">
+        sha1="e793c7ff0a8f01e7edb5bdfd0a993e737edd5568">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73ce1e12a8593f4e831680ad84b46110932afbea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="65943ebffcc5c71d54ec76485391310a9b41bf54">
+        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3283e8ee43d504a21cd8e1a558be9ed02c2dc66/classes.dex" />
     </item>
     <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/libs/twitter4j-core-3.0.5.jar"
@@ -65,18 +72,18 @@
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_8519f9e332a1d684b67888ed379685ad547ecb58/classes.dex" />
     </item>
     <item
-        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_aa7bc4dee3eb2f787b4eed7e8c1899744d2c2a40/classes.dex" />
-    </item>
-    <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/libs/httpclient-4.0.1.jar"
         jumboMode="true"
         revision="21.1.2"
         sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.1_151f062bb4fd860c95a65980cc2a38fa593cc72a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_aa7bc4dee3eb2f787b4eed7e8c1899744d2c2a40/classes.dex" />
     </item>
     <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
@@ -96,7 +103,7 @@
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="be84ba1596f5278cb336f7c1c06791178a771fc3">
+        sha1="8d19eb3032751ea492e2992ba2b0e75e435b4067">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/8/bolts_1d4fb2bf4add77822fc93a3051b430eb31b6559c/classes.dex" />
     </item>
     <item
@@ -105,13 +112,6 @@
         revision="21.1.2"
         sha1="252966134eb47bcd33407adc5c3d0b20a21128a9">
         <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.3.8_cb5ec383c9f2345afda52f91b0508d3f823164e5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/libs/crittercism_v4_3_0_sdkonly.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="268b37188006a9f790f5b27d6795e93b7a873e6b">
-        <dex dex="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/build/intermediates/transforms/dex/debug/folders/1000/2/crittercism_v4_3_0_sdkonly_645ca9857a94d96182ec60ced97ace7d8ec4505d/classes.dex" />
     </item>
     <item
         jar="/Users/barry/Documents/Winter2017AndroidAppNew/BICSI/bICSI/libs/PushIOManager.jar"
